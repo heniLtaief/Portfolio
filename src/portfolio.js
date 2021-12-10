@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Heni Ltaief",
   subTitle: "Full Stack Web Developer. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1vlA-oI5saMFO4hUbJSpyr6r_CsipjC3Y/view?usp=sharing",
+    "https://drive.google.com/file/d/14zenjKtbmp1Y1ywPOcfIDLd_ga16b8HF/view?usp=sharing",
   mail: "heniltaief@gmail.com",
 };
 
