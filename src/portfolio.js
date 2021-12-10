@@ -296,15 +296,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
-      alt_name: "deeplearning.ai",
-      color_code: "#47A048",
-    },
+    // {
+    //   title: "Deep Learning Specialization",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#47A048",
+    // },
     // {
     //   title: "Sequence Models",
     //   subtitle: "deeplearning.ai",
